@@ -56,15 +56,14 @@ Pandas,Matplotlib
 Example:
 
 import matplotlib.pyplot as plt
+import numpy as np
 
-from matplotlib import style
+xpoints = np.array([0, 6])
+ypoints = np.array([0, 250])
 
-plt.bar(months,all_data.groupby(['Month']).sum()['Sales'])
-
-plt.xticks(months)
-
-plt.ylabel('Sales in USD ($)',fontdict={'fontname':'Times New Roman','fontsize':20,'fontweight':'bold'})
-
-plt.xlabel('Month number',fontdict={'fontname':'Times New Roman','fontsize':20,'fontweight':'bold'})
-
+plt.plot(xpoints, ypoints)
 plt.show()
+
+## Reference 
+
+https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html
