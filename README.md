@@ -1,4 +1,4 @@
-# Sales_Analysis-Data-Visualization-
+# Data-Visualization using kaggle's Dataset-
 
 # About
 Data Visualization is a concept of representing a given dataset into visual forms as like  : bar graphs,pie chart,boxes and whiskers etc.
