@@ -25,7 +25,7 @@ Question 5: What product sold the most? Why do you think it sold the most?
 ## Modules Used
 -os-The OS module in Python provides functions for interacting with the operating system.
 
--pandas-Pandas is a Python Library. Pandas is used to analyze data.
+-pandas-Pandas is a python library. Pandas is used to analyze data.
 
 -matplotlib-Matplotlib is a Python library that helps in visualizing and analyzing the data and helps in better understanding of the data with the help of graphical, pictorial visualizations that can be simulated using the matplotlib library.
 ## Color Reference
